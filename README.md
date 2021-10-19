@@ -1,4 +1,4 @@
-# (93.07) - Métodos Numéricos (20212Q)
+# 93.07 - Métodos Numéricos (20212Q)
 
 Este repositorio contiene todos los algoritmos que se enseñan en la materia mencionada en el título para la carrera de informática. 
 
