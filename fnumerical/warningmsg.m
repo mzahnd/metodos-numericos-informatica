@@ -1,5 +1,5 @@
-function printWarning(msg)
-% printWarning(msg)
+function warningmsg(msg)
+% warningmsg(msg)
 %
 % Entrada:
 %  - msg: Mensaje a imprimir
